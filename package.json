@@ -1,0 +1,17 @@
+{
+  "name": "finite-state-automaton-core",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "fsa",
+    "dfa",
+    "automaton",
+    "state-machine",
+    "formal-methods"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
